@@ -1,0 +1,24 @@
+[12-Dec-2020 22:41:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home4/joshuaoo/public_html/badminators/php/register_user.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/joshuaoo/public_html/badminators/php/register_user.php on line 12
+[12-Dec-2020 22:42:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home4/joshuaoo/public_html/badminators/php/register_user.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/joshuaoo/public_html/badminators/php/register_user.php on line 12
+[12-Dec-2020 23:04:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home4/joshuaoo/public_html/badminators/php/register_user.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/joshuaoo/public_html/badminators/php/register_user.php on line 12
+[12-Dec-2020 23:11:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home4/joshuaoo/public_html/badminators/php/register_user.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/joshuaoo/public_html/badminators/php/register_user.php on line 12
+[29-Jan-2021 15:00:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'joshuaoo_joshuaoo'@'localhost' to database 'joshuaoo_uumstaffhealthprofile' in /home4/joshuaoo/public_html/uumstaffhealthprofile/php/dbconnect.php on line 7
+[29-Jan-2021 15:00:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'joshuaoo_joshuaoo'@'localhost' to database 'joshuaoo_uumstaffhealthprofile' in /home4/joshuaoo/public_html/uumstaffhealthprofile/php/dbconnect.php on line 7
+[31-Jan-2021 20:17:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/joshuaoo/public_html/uumstaffhealthprofile/php/searchsuggestion.php on line 29
+[31-Jan-2021 20:17:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/joshuaoo/public_html/uumstaffhealthprofile/php/searchsuggestion.php on line 29
+[31-Jan-2021 20:18:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/joshuaoo/public_html/uumstaffhealthprofile/php/searchsuggestion.php on line 29
+[31-Jan-2021 20:18:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/joshuaoo/public_html/uumstaffhealthprofile/php/searchsuggestion.php on line 29
+[31-Jan-2021 20:18:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/joshuaoo/public_html/uumstaffhealthprofile/php/searchsuggestion.php on line 29
+[31-Jan-2021 20:18:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/joshuaoo/public_html/uumstaffhealthprofile/php/searchsuggestion.php on line 29
